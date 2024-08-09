@@ -1,8 +1,9 @@
 # Task-Board
 A task board for organizing projects by progress &amp; due date. 
-![screenshot of application](<Screenshot 2024-08-09 at 11.17.15 AM.png>)
 
-![screenshot displaying modal with datepicker](<Screenshot 2024-08-09 at 11.17.50 AM.png>)
+<img width="1494" alt="Screenshot 2024-08-09 at 11 17 15 AM" src="https://github.com/user-attachments/assets/75802f9c-2e48-41df-acee-90c9e98bff0f">
+
+<img width="1570" alt="Screenshot 2024-08-09 at 11 17 50 AM" src="https://github.com/user-attachments/assets/77c7c068-38d8-4869-bb13-7f025f1bf8d5">
 
 # Getting Started
 To clone this repository and view it locally, navigate to the green 'code' button in the top right of the repository and use the drop down button to copy the repository's url. Then using your local command shell (example: terminal or gitbash), create the directory you'd like to add the repository to. Navigate into the directory using your command line. Execute the 'git clone' command followed by the url of the repository you copied. The repoistory should now be available inside the local directory you just created to view and edit or review the source code in your IDE.
